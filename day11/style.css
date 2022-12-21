@@ -1,0 +1,82 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#navbar {
+    height: 50px;
+
+}
+#box {
+    width: 100%;
+    position: relative;
+}
+
+#opt{
+    position: absolute;
+    top: 55%;
+    margin-left: 120px;
+}
+/* #icon{ 
+    position: absolute;
+    margin-left:250px; 
+    top:45% ;
+}*/
+#itag{
+    position: absolute;
+    top: 35%;
+    margin-left:250px;
+}
+#opt1{
+    position: absolute;
+    top: 35%; 
+    margin-left:215px;
+    width: 680px;
+    border: none;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 15px;
+    height:38px;
+    padding-left: 20PX;
+}
+#para{
+    position: absolute;
+    margin-left:950px;
+    top:55%
+}
+#tech{
+    position: absolute;
+    margin-left:1090px;
+    top:55%
+}
+#cart{
+    position: absolute;
+    margin-left:1230px;
+    top:50%
+  
+}
+#button1{
+    position: absolute;
+    margin-left:1270px;
+    top:40%;
+    width: 75px;
+    height:25px;
+
+    background-color: white;
+    color:black;
+}
+#button2{
+    position: absolute;
+    margin-left:1360px;
+    top:40%;
+    width: 75px;
+    height:25px;
+    background-color: black;
+    color:bisque;
+}
+#globe{
+    position: absolute;
+    margin-left:1450px;
+    top:40%;
+    height:25px;
+    width:25px;
+}
